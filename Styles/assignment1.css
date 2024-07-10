@@ -35,6 +35,14 @@ li{
     list-style: none;
     
 }
+.bonus-button{
+    display: inline-block;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+}
 /* banner section styles */
 .banner-profile-pic{
     width: 240px;
